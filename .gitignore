@@ -1,8 +1,9 @@
 # dependencies
 /node_modules
+/.idea
 /.pnp
 .pnp.js
-
+package-lock.json
 # testing
 /coverage
 
